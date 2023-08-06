@@ -5,7 +5,7 @@ layout: home
 hero:
   name: "Antoine Pollet"
   text: "My portfolio"
-  tagline: Full stack developper, fell in love with the Vue ecosystem, beside programming I like to 
+  tagline: Full stack developper, fell in love with the Vue.js ecosystem, beside programming I like to shred the guitar, go to the gym and play with my cats.
   image:
     src: /icons8-kitty-96.png
     alt: Iamge logo

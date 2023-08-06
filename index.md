@@ -18,13 +18,13 @@ features:
     link: https://rickandmortydiscovery.web.app/
     linkText: web application
   - title: Pokedex
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+    details: Pokedex built with Vue, GraphQL, Tailwind.
     icon: 
       src: /icons8-pokedex.png
     link: https://pokedex-antoinepollet.vercel.app/
     linkText: web application
   - title: Fighting platform
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+    details: This was our last school project, a fighting application with bet system, sponsorship and more
     icon: 
       src: /icons8-boxing.png
     linkText: github

@@ -1,0 +1,17 @@
+/* .vitepress/theme/custom.css */
+:root {
+  --vp-c-purple: #9b47e4;
+  --vp-c-purple-light: #ac69e6;
+  --vp-c-purple-lighter: #bd8ee7;
+  --vp-c-purple-dark: #8726db;
+  --vp-c-purple-darker: #7615cb;
+  --vp-c-purple-dimm-1: rgba(16, 185, 129, 0.05);
+  --vp-c-purple-dimm-2: rgba(16, 185, 129, 0.2);
+  --vp-c-purple-dimm-3: rgba(16, 185, 129, 0.5);
+
+  --vp-c-brand: var(--vp-c-purple);
+  --vp-c-brand-light: var(--vp-c-purple-light);
+  --vp-c-brand-lighter: var(--vp-c-purple-lighter);
+  --vp-c-brand-dark: var(--vp-c-purple-dark);
+  --vp-c-brand-darker: var(--vp-c-purple-darker);
+}

@@ -6,13 +6,23 @@ hero:
   name: 'Antoine Pollet'
   text: 'My portfolio'
   tagline:
-    Full stack developper, fell in love with the Vue.js ecosystem, beside programming I like to shred the guitar, go to
-    the gym and play with my cats.
-  image:
-    src: /icons8-kitty-96.png
-    alt: Iamge logo
+     Freelance Full-Stack Web Developer.
+     <br>
+     <br>
+     As an experienced full-stack web developer, I specialize in building modern web applications. With expertise in both front-end and back-end technologies, I can take projects from initial design to final deployment.
+     <br>
+     <br>
+     Currently, I serve as the Lead Front-End Developer at <a href="https://www.eugene.app/">Eugene</a>, where I architect complex user interfaces, integrate with back-end services, and mentor junior developers.\n\nIn my freelance work, I've helped clients across industries bring their ideas to life through custom web applications, from e-commerce platforms to data visualization tools.
+     <br>
+     <br>
+     You cant contact me at pollet.antoine.alexis@gmail.com
 
 features:
+  - title: On demand window
+    details: I built a on demand window configurator on top of WordPress
+    icon: 🪟
+    link: https://www.rapidefenetre.fr/
+    linkText: rapid fenetre
   - title: Rick & Morty
     details: Discover rick and morty characters
     icon:

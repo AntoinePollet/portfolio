@@ -10,9 +10,12 @@ export default defineConfig({
     nav: [
       { text: 'Home', link: '/' },
     ],
-
     socialLinks: [
       { icon: 'github', link: 'https://github.com/AntoinePollet' }
-    ]
+    ],
+    footer: {
+      message: 'You can contact me at pollet.antoine.alexis@gmail.com',
+      copyright: 'Copyright © 2021-present <a href="https://github.com/AntoinePollet">Antoine Pollet</a>'
+    }
   }
 })
